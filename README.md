@@ -158,45 +158,9 @@
 
 ---
 
-# 📚 Currently Learning
-
-```text
-✔ Spring Boot
-✔ Microservices
-✔ Docker
-✔ Kubernetes
-✔ System Design
-✔ CI/CD
-✔ Cloud Deployment
-```
-
 ---
-
-# 🏅 Certifications
-
-🏅 Cisco Networking Academy
-
-🏅 Oracle SQL
-
-🏅 Palo Alto Cybersecurity
-
-🏅 Salesforce Trailhead
-
-🏅 NPTEL Compiler Design
-
+ 
 ---
-
-# 🎯 Competitive Programming
-
-🔥 350+ DSA Problems Solved
-
-🏆 LeetCode
-
-🏆 CodeChef
-
-🏆 Codeforces
-
-🏆 CSES
 
 ---
 
