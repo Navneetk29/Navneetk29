@@ -22,28 +22,14 @@
 
 🚀 Passionate about scalable backend systems and modern frontend development
 
-🌱 Currently learning
+ 
+ 
 
-- Spring Boot
-- Microservices
-- Docker
-- Kubernetes
-- System Design
-
-🧠 Solved **350+ DSA Problems**
-
-🏆 IEEE Hackathon Top 5
+ 
 
 📍 Noida, India
 
-💬 Ask me about
-
-- Java
-- React
-- Node.js
-- REST APIs
-- MongoDB
-- SQL
+ 
 
 ---
 
