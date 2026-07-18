@@ -21,14 +21,9 @@
 💻 Full Stack Software Engineer
 
 🚀 Passionate about scalable backend systems and modern frontend development
-
- 
- 
-
  
 
 📍 Noida, India
-
  
 
 ---
@@ -97,50 +92,7 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧑‍💼 Job Portal
-
-> **React.js • Node.js • Express.js • MongoDB • JWT**
-
-✨ Features
-
-- Role Based Authentication
-- Recruiter Dashboard
-- Applicant Dashboard
-- Admin Dashboard
-- REST APIs
-- MVC Architecture
-- SOLID Principles
-
----
-
-## 🤖 AI Credit Risk Scoring
-
-> **Python • Machine Learning**
-
-✨ Features
-
-- Random Forest
-- Logistic Regression
-- Decision Tree
-- Data Visualization
-- Risk Prediction
-
----
-
-## 📚 Digital Bookshelf
-
-> **HTML • CSS • JavaScript**
-
-✨ Features
-
-- Search & Filters
-- Responsive Design
-- Local Storage
-- Fast Performance
-
----
+ 
 
 # 📈 GitHub Analytics
 
