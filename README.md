@@ -30,27 +30,44 @@
 <td width="55%" valign="top">
 
 ```
-╭─● ● ●──────────────────────────────╮
-│  navneet@core ~ %                   │
-╰──────────────────────────────────────╯
+ ███╗   ██╗ █████╗ ██╗   ██╗███╗   ██╗███████╗███████╗████████╗
+ ████╗  ██║██╔══██╗██║   ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝
+ ██╔██╗ ██║███████║██║   ██║██╔██╗ ██║█████╗  █████╗     ██║   
+ ██║╚██╗██║██╔══██║╚██╗ ██╔╝██║╚██╗██║██╔══╝  ██╔══╝     ██║   
+ ██║ ╚████║██║  ██║ ╚████╔╝ ██║ ╚████║███████╗███████╗   ██║   
+ ╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝   
 ```
 ```bash
+╭─● ● ●──────────────────────────────────────╮
+│  navneet@core ~ %                            │
+╰────────────────────────────────────────────────╯
+
 $ whoami
 > Navneet Kumar — Full Stack Software Engineer
 
-$ cat focus.txt
-> Scalable REST APIs · Responsive front-ends
-> Clean architecture · SOLID + MVC
+$ uptime --pretty
+> Coding since 2022 · B.Tech CSE, Galgotias University ('22–'26)
+
+$ cat role.txt
+> Building scalable REST APIs & responsive front-ends
+> Clean architecture · SOLID + MVC · Test-driven
 
 $ echo $STACK
-> React.js  Node.js  Java  MongoDB
+> React.js · Node.js · Java · MongoDB · Express
+
+$ cat skills.txt --bars
+  React.js        ████████████████░░░░  80%
+  Node.js/Express  ███████████████░░░░░  75%
+  Java             █████████████░░░░░░░  65%
+  System Design    ███████████░░░░░░░░░  55%
 
 $ git log --author="Navneet" --oneline | wc -l
-> 350+ DSA problems solved (LeetCode · Codeforces · CodeChef)
+> 350+ DSA problems solved · LeetCode · Codeforces · CodeChef
 
-$ cat education.txt
-> B.Tech CSE — Galgotias University ('22 – '26)
-> Noida, India
+$ cat status.txt
+> 📍 Noida, India   🕐 IST (UTC+5:30)
+> 🟢 Open to SDE internships / full-time roles
+> ⚡ Usually replies within a day
 
 $ _
 ```
@@ -59,6 +76,10 @@ $ _
 <td width="45%" valign="top" align="center">
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Coding.gif" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=B14EFF&center=true&vCenter=true&width=380&lines=compiling+ambition...;deploying+consistency...;status%3A+always+learning" />
 
 </td>
 </tr>
