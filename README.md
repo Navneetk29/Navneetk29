@@ -19,10 +19,21 @@
 
 ## 🧬 About Me
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/UPTIME-350%2B_PROBLEMS_SOLVED-B14EFF?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF3EA5?style=flat-square&labelColor=0d1117"/>
+
+</div>
+
 <table>
 <tr>
 <td width="55%" valign="top">
 
+```
+╭─● ● ●──────────────────────────────╮
+│  navneet@core ~ %                   │
+╰──────────────────────────────────────╯
+```
 ```bash
 $ whoami
 > Navneet Kumar — Full Stack Software Engineer
@@ -40,12 +51,14 @@ $ git log --author="Navneet" --oneline | wc -l
 $ cat education.txt
 > B.Tech CSE — Galgotias University ('22 – '26)
 > Noida, India
+
+$ _
 ```
 
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Coding.gif" width="100%"/>
 
 </td>
 </tr>
