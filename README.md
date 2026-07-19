@@ -21,69 +21,58 @@
 
 <div align="center">
 
+### 👋 Hi, welcome to my corner of the internet
+
+*Where clean code meets creative problem-solving —*
+*turning ideas into interfaces, and logic into experiences.*
+
+<br/>
+
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/UPTIME-350%2B_PROBLEMS_SOLVED-B14EFF?style=flat-square&labelColor=0d1117"/> <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF3EA5?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="420"/>
 
 </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<br/>
 
 ```
- ███╗   ██╗ █████╗ ██╗   ██╗███╗   ██╗███████╗███████╗████████╗
- ████╗  ██║██╔══██╗██║   ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝
- ██╔██╗ ██║███████║██║   ██║██╔██╗ ██║█████╗  █████╗     ██║   
- ██║╚██╗██║██╔══██║╚██╗ ██╔╝██║╚██╗██║██╔══╝  ██╔══╝     ██║   
- ██║ ╚████║██║  ██║ ╚████╔╝ ██║ ╚████║███████╗███████╗   ██║   
- ╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝   
+╭─● ● ●──────────────────────────────╮
+│  navneet@core ~ %                   │
+╰──────────────────────────────────────╯
 ```
 ```bash
-╭─● ● ●──────────────────────────────────────╮
-│  navneet@core ~ %                            │
-╰────────────────────────────────────────────────╯
-
 $ whoami
 > Navneet Kumar — Full Stack Software Engineer
 
-$ uptime --pretty
-> Coding since 2022 · B.Tech CSE, Galgotias University ('22–'26)
-
-$ cat role.txt
-> Building scalable REST APIs & responsive front-ends
-> Clean architecture · SOLID + MVC · Test-driven
+$ cat focus.txt
+> Scalable REST APIs · Responsive front-ends
+> Clean architecture · SOLID + MVC
 
 $ echo $STACK
-> React.js · Node.js · Java · MongoDB · Express
+> React.js  Node.js  Java  MongoDB
+
+$ git log --author="Navneet" --oneline | wc -l
+> 350+ DSA problems solved (LeetCode · Codeforces · CodeChef)
 
 $ cat skills.txt --bars
-  React.js        ████████████████░░░░  80%
+  React.js         ████████████████░░░░  80%
   Node.js/Express  ███████████████░░░░░  75%
   Java             █████████████░░░░░░░  65%
   System Design    ███████████░░░░░░░░░  55%
 
-$ git log --author="Navneet" --oneline | wc -l
-> 350+ DSA problems solved · LeetCode · Codeforces · CodeChef
+$ cat education.txt
+> B.Tech CSE — Galgotias University ('22 – '26)
+> Noida, India
 
 $ cat status.txt
 > 📍 Noida, India   🕐 IST (UTC+5:30)
 > 🟢 Open to SDE internships / full-time roles
-> ⚡ Usually replies within a day
 
 $ _
 ```
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Coding.gif" width="100%"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=B14EFF&center=true&vCenter=true&width=380&lines=compiling+ambition...;deploying+consistency...;status%3A+always+learning" />
-
-</td>
-</tr>
-</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
 
