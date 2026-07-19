@@ -4,51 +4,68 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Navneet%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0F2027,50:2C5364,100:00F5FF&text=NAVNEET%20KUMAR&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%E2%80%A2%20React%20%C2%B7%20Node.js%20%C2%B7%20Java&descAlignY=55&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=2500&pause=800&color=39D0FF&center=true&vCenter=true&width=800&lines=React.js+%7C+Node.js+%7C+Java;Building+Scalable+Web+Applications;SOLID+%2B+MVC+%2B+Clean+Architecture;350%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Building+Scalable+REST+APIs;SOLID+%2B+MVC+%2B+Clean+Architecture;350%2B+DSA+Problems+Solved;Open+to+SDE+Roles" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=B14EFF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00F5FF?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
 
 ## 🧬 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```yaml
-engineer:
-  name: Navneet Kumar
-  role: Full Stack Software Engineer
-  stack: [React.js, Node.js, Java, MongoDB]
-  focus: scalable REST APIs · responsive front-ends · clean architecture
-  principles: [SOLID, MVC]
-  dsa: "350+ problems — LeetCode · Codeforces · CodeChef"
-  education: "B.Tech CSE, Galgotias University ('22 – '26)"
-  location: "Noida, India"
+```bash
+$ whoami
+> Navneet Kumar — Full Stack Software Engineer
+
+$ cat focus.txt
+> Scalable REST APIs · Responsive front-ends
+> Clean architecture · SOLID + MVC
+
+$ echo $STACK
+> React.js  Node.js  Java  MongoDB
+
+$ git log --author="Navneet" --oneline | wc -l
+> 350+ DSA problems solved (LeetCode · Codeforces · CodeChef)
+
+$ cat education.txt
+> B.Tech CSE — Galgotias University ('22 – '26)
+> Noida, India
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
 
 ## 🌐 Connect
 
 <div align="center">
 
-<a href="mailto:vnavneet1541@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="mailto:vnavneet1541@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
 
 ## ⚙️ Tech Arsenal
 
@@ -72,7 +89,7 @@ engineer:
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
 
 ## 🚀 Featured Builds
 
@@ -107,7 +124,13 @@ Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree cl
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
+
+## 🧊 Isometric 3D Contribution Calendar
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-metrics.svg" width="100%"/>
+</div>
 
 ## 🐍 Contribution Snake
 
@@ -119,30 +142,24 @@ Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree cl
 </picture>
 </div>
 
-## 🧊 3D Contribution Graph
+> ⚡ Both visuals above are generated automatically by the two workflow files below — see setup notes at the bottom.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-> ⚡ Both graphs above are generated automatically by the two workflow files below — see setup notes underneath.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
 
 ## 📊 Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=39D0FF&icon_color=ff6ac1&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=39D0FF&fire=ff6ac1&currStreakLabel=39D0FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF3EA5&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=00F5FF&fire=FF3EA5&currStreakLabel=00F5FF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=39D0FF&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" width="48%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=4"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
 
 ## 🏆 Achievements & Certifications
 
@@ -155,12 +172,10 @@ Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree cl
 - 📜 NPTEL (IIT Kharagpur) — Compiler Design
 - 📜 Cisco Networking Academy — Cybersecurity, Networking Basics & Python Essentials 1
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
 <div align="center">
 
 ### 💭 "Code. Learn. Build. Repeat."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20,11,6&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:FF3EA5,50:B14EFF,100:0F2027&section=footer&animation=fadeIn"/>
 
 </div>
