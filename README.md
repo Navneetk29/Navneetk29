@@ -126,26 +126,6 @@ Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree cl
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
 
-## 🧊 Isometric 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-metrics.svg" width="100%"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-</div>
-
-> ⚡ Both visuals above are generated automatically by the two workflow files below — see setup notes at the bottom.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:B14EFF,100:FF3EA5&width=100%25"/>
-
 ## 📊 Analytics
 
 <div align="center">
