@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F1A,50:1B2735,100:3A3D5C&text=NAVNEET%20KUMAR&fontSize=46&fontColor=F5C542&fontAlignY=38&desc=Software%20eveloperdescAlignY=55&descSize=18&descAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B0F1A,50:1B2735,100:3A3D5C&text=NAVNEET%20KUMAR&fontSize=46&fontColor=F5C542&fontAlignY=38&desc=Software%20% Developer AlignY=55&descSize=18&descAlign=50&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=F5C542&center=true&vCenter=true&width=650&lines=Building+scalable+REST+APIs;SOLID+%2B+MVC+%2B+Clean+Architecture;350%2B+DSA+problems+solved;Aiming+for+top-tier+engineering+roles" />
 
