@@ -154,7 +154,7 @@ Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree cl
 | | |
 |---|---|
 | 🥇 | **5th place**, IEEE Hackathon — *Rakshanam*, a real-time personal safety system |
-| 🧩 | **350+ problems** solved — LeetCode, Codeforces, CodeChef, CSES |
+| 🧩 | **450+ problems** solved — LeetCode, Codeforces, CodeChef, CSES |
 | 🗄️ | **50+ SQL problems** — joins, subqueries, window functions |
 | 📜 | Palo Alto Networks — Cybersecurity Fundamentals and Threat Mitigation |
 | 📜 | Oracle — Database Programming with SQL |
