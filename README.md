@@ -105,7 +105,7 @@ System Design       ███████████░░░░░░░░░
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 [Job Portal](https://github.com/Navneetk29/Job Portal)
+### 🧩 [Job Portal](https://github.com/Navneetk29/)
 <sub>React · Node · Express · MongoDB · JWT</sub>
 
 Modular RESTful backend built on MVC + SOLID, with three role-based access levels. Responsive React frontend with 10+ reusable components, 80% test coverage, and zero-downtime CI/CD on Vercel/Render.
