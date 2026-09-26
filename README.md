@@ -28,7 +28,7 @@ I'm a full-stack engineer who enjoys turning ideas into clean, working software 
 </td>
 <td width="50%" valign="top">
 
-🧩 &nbsp;**350+ DSA problems** solved across LeetCode, Codeforces, CodeChef & CSES
+🧩 &nbsp;**450+ DSA problems** solved across LeetCode, Codeforces, CodeChef & CSES
 <br/>
 🟢 &nbsp;Open to SDE internships & full-time roles
 
