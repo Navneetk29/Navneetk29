@@ -167,11 +167,7 @@ Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree cl
 
 <div align="center">
 
-<a href="mailto:vnavneet1541@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0F1A?style=for-the-badge&logo=gmail&logoColor=F5C542&labelColor=0B0F1A"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=F5C542&labelColor=0B0F1A"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=F5C542&labelColor=0B0F1A"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-0B0F1A?style=for-the-badge&logo=leetcode&logoColor=F5C542&labelColor=0B0F1A"/></a>
-<a href="https://www.codechef.com/users/YOUR_CODECHEF"><img src="https://img.shields.io/badge/CodeChef-0B0F1A?style=for-the-badge&logo=codechef&logoColor=F5C542&labelColor=0B0F1A"/></a>
+ <a href="mailto:vnavneet1541@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0F1A?style=for-the-badge&logo=gmail&logoColor=F5C542&labelColor=0B0F1A"/></a> <a href="https://linkedin.com/in/navneet-verma-304240183"><img src="https://img.shields.io/badge/LinkedIn-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=F5C542&labelColor=0B0F1A"/></a> <a href="https://github.com/Navneetk29"><img src="https://img.shields.io/badge/GitHub-0B0F1A?style=for-the-badge&logo=github&logoColor=F5C542&labelColor=0B0F1A"/></a> <a href="https://leetcode.com/u/Navneetk11/"><img src="https://img.shields.io/badge/LeetCode-0B0F1A?style=for-the-badge&logo=leetcode&logoColor=F5C542&labelColor=0B0F1A"/></a> <a href="https://www.codechef.com/users/navneetk_29"><img src="https://img.shields.io/badge/CodeChef-0B0F1A?style=for-the-badge&logo=codechef&logoColor=F5C542&labelColor=0B0F1A"/></a>
 
 </div>
 
@@ -180,8 +176,3 @@ Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree cl
 <div align="center">
 <sub>Code. Learn. Build. Repeat.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3A3D5C,50:1B2735,100:0B0F1A&section=footer"/>
-<sub>Code. Learn. Build. Repeat.</sub>
-
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3A3D5C,50:1B2735,100:0B0F1A&section=footer"/>
