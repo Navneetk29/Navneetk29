@@ -182,3 +182,6 @@ Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree cl
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3A3D5C,50:1B2735,100:0B0F1A&section=footer"/>
+<sub>Code. Learn. Build. Repeat.</sub>
+
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3A3D5C,50:1B2735,100:0B0F1A&section=footer"/>
