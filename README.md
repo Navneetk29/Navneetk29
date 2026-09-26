@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a full-stack engineer who enjoys turning ideas into clean, working software — scalable APIs on the backend, responsive interfaces on the front. My approach leans on SOLID principles and MVC architecture, and I spend a lot of free time sharpening problem-solving skills through competitive programming.
+I'm a Software Developer who enjoys turning ideas into clean, working software — scalable APIs on the backend, responsive interfaces on the front. My approach leans on SOLID principles and MVC architecture, and I spend a lot of free time sharpening problem-solving skills through competitive programming.
 
 <table width="100%">
 <tr>
