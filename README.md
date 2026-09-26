@@ -19,7 +19,7 @@ I'm a full-stack engineer who enjoys turning ideas into clean, working software 
 
 - 🎓 B.Tech CSE, Galgotias University (2022 – 2026)
 - 📍 Noida, India · IST (UTC+5:30)
-- 🧩 350+ DSA problems solved across LeetCode, Codeforces, CodeChef & CSES
+- 🧩 450+ DSA problems solved across LeetCode, Codeforces, CodeChef & CSES
 - 🟢 Currently open to SDE internships and full-time roles
 
 &nbsp;
