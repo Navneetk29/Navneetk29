@@ -105,7 +105,7 @@ System Design       ███████████░░░░░░░░░
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 [Job Portal](https://github.com/Navneetk29/YOUR_REPO)
+### 🧩 [Job Portal](https://github.com/Navneetk29/Job Portal)
 <sub>React · Node · Express · MongoDB · JWT</sub>
 
 Modular RESTful backend built on MVC + SOLID, with three role-based access levels. Responsive React frontend with 10+ reusable components, 80% test coverage, and zero-downtime CI/CD on Vercel/Render.
@@ -113,7 +113,7 @@ Modular RESTful backend built on MVC + SOLID, with three role-based access level
 </td>
 <td width="50%" valign="top">
 
-### 📚 [Digital Bookshelf](https://github.com/Navneetk29/YOUR_REPO)
+### 📚 [Digital Bookshelf](https://github.com/Navneetk29/Digital_BookShelf)
 <sub>HTML5 · CSS3 · Vanilla JS</sub>
 
 Multi-filter search across 500+ book entries using an indexed data structure for O(n) lookup. Zero framework dependency, with localStorage persistence.
@@ -123,7 +123,7 @@ Multi-filter search across 500+ book entries using an indexed data structure for
 <tr>
 <td colspan="2" valign="top">
 
-### 🤖 [AI Credit Risk Scoring System](https://github.com/Navneetk29/YOUR_REPO)
+### 🤖 [AI Credit Risk Scoring System](https://github.com/Navneetk29/Ai-For-Credit-risk-Scoring)
 <sub>Python · Scikit-learn · Pandas · NumPy · Matplotlib</sub>
 
 Trained and benchmarked Logistic Regression, Random Forest, and Decision Tree classifiers across 10,000+ records, reaching 85% test accuracy with feature-importance visualizations.
